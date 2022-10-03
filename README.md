@@ -1,4 +1,4 @@
-# CATATAN ( NOTE )
+# CATATAN (NOTE)
 sc ini dibuat oleh Aditya Okta Farabi
 Adit hanya menghilangkat bug, memperbagus & menyeting banyak hal
 agar tidak terjadi error
@@ -17,7 +17,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DITZBOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
